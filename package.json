@@ -1,15 +1,16 @@
 {
   "name": "gavin",
   "version": "0.0.1",
-  "description": "A robot controlled by the keyboard created in JavaScript",
-  "main": "main.js",
+  "description": "A Robot controlled with Keyboard made with JavaScript",
+  "main": "gavin.js",
   "dependencies": {
     "async": "^0.2.10",
     "cylon": "^1.3.0",
-    "cylon-i2c": "^0.26.1",
     "cylon-firmata": "^0.24.0",
     "cylon-gpio": "^0.29.0",
-    "express": "^3.2.6",
+    "cylon-keyboard": "^0.17.0",
+    "express": "^3.21.2",
+    "cylon-i2c": "^0.26.1",
     "socket.io": "^0.9.17"
   },
   "devDependencies": {},
@@ -21,7 +22,7 @@
     "url": "git+https://github.com/Heark/Gavin.git"
   },
   "keywords": [
-    "robot"
+    "gavin"
   ],
   "author": "Heark",
   "license": "MIT",
@@ -29,4 +30,3 @@
     "url": "https://github.com/Heark/Gavin/issues"
   },
   "homepage": "https://github.com/Heark/Gavin#readme"
-}
