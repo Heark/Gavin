@@ -23,7 +23,7 @@ Gavin.robot({
         if(my.led.isOn == true) {
           my.led.toggle();
         } else {
-          console.log("Motor is off.");
+          console.log("Motor is off");
         }
       }
     }
