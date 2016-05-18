@@ -3,9 +3,9 @@
 ## Robot
 <img src="http://d2kmb61w1swc5t.cloudfront.net/images/Actobotics_Kit-03.jpg" alt="Drawing" width="200" height="200"/>
 
-## Run Gavin on your Raspberry Pi System
+## How to run Gavin on your Raspberry Pi System
 
-<img src="http://www.iconarchive.com/download/i103481/paomedia/small-n-flat/sign-warning.ico" width="100" height="100"/>
+<img src="http://www.iconarchive.com/download/i103481/paomedia/small-n-flat/sign-warning.ico" width="50" height="50"/>
 ### If you do not know what you're doing, don't touch your Raspberry Pi System.
 
 1. Transfer all Gavin files to your Raspberry Pi System
