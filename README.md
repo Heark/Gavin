@@ -8,13 +8,10 @@
 <img src="http://www.iconarchive.com/download/i103481/paomedia/small-n-flat/sign-warning.ico" width="100" height="100"/>
 ### If you do not know what you're doing, don't touch your Raspberry Pi System.
 
-### Transfer all Gavin files to your Raspberry Pi System
-
-### install Nodejs on your system
-
-### cd the Gavin directory on your Raspberry Pi System
-
-### Run the following
+1. Transfer all Gavin files to your Raspberry Pi System
+2. install Nodejs on your system
+3. cd the Gavin directory on your Raspberry Pi System
+4.  Run the following
 ``` batchfile
 npm install
 ```
