@@ -1,28 +1,30 @@
 {
   "name": "gavin",
-  "version": "0.0.1",
-  "description": "A Robot controlled with Keyboard made with JavaScript",
+  "version": "1.0.0",
+  "description": "A Raspberry Pi robot created in JavaScript",
   "main": "gavin.js",
   "dependencies": {
     "async": "^0.2.10",
     "cylon": "^1.3.0",
-    "cylon-firmata": "^0.24.0",
     "cylon-gpio": "^0.29.0",
-    "cylon-keyboard": "^0.17.0",
-    "express": "^3.21.2",
+    "cylon-firmata": "^0.24.0",
     "cylon-i2c": "^0.26.1",
+    "hotdog": "^0.0.1",
+    "express": "^3.21.2",
+    "cylon-raspi": "^0.20.1",
+    "cylon-keyboard": "^0.17.0",
     "socket.io": "^0.9.17"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node gavin.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Heark/Gavin.git"
   },
   "keywords": [
-    "gavin"
+    "robotics"
   ],
   "author": "Heark",
   "license": "MIT",
@@ -30,3 +32,4 @@
     "url": "https://github.com/Heark/Gavin/issues"
   },
   "homepage": "https://github.com/Heark/Gavin#readme"
+}
