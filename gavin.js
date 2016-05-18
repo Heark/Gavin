@@ -1,9 +1,18 @@
 var Gavin = require('cylon');
 
+
 Gavin.robot({
-  work: function() {
-    every((20).second(), function() {
-      console.log("Gavin online");
+  connections: {
+    keyboard: { adaptor: 'keyboard' }
+  },
+
+  devices: {
+    keyboard: { driver: 'keyboard' }
+  },
+
+  work: function(my) {
+    my.keyboard.on('a', function(key) {
+      console.log("A PRESSED!");
     });
   }
 }).start();
