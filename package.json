@@ -1,7 +1,7 @@
 {
   "name": "gavin",
   "version": "1.0.0",
-  "description": "A Raspberry Pi robot created in JavaScript",
+  "description": "A Raspberry Pi robot created in JavaScript ",
   "main": "gavin.js",
   "dependencies": {
     "async": "^0.2.10",
