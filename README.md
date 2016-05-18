@@ -5,6 +5,7 @@
 
 ## Run Gavin on your Raspberry Pi System
 
-<img src="http://www.iconarchive.com/download/i103481/paomedia/small-n-flat/sign-warning.ico" width="150" height="150"/> ### If you do not know what you're doing, don't touch yuor Raspberry Pi System.
+<img src="http://www.iconarchive.com/download/i103481/paomedia/small-n-flat/sign-warning.ico" width="100" height="100"/>
+### If you do not know what you're doing, don't touch yuor Raspberry Pi System.
 
 
