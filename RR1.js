@@ -17,6 +17,7 @@ RR1.robot({
   },
 
   work: function(my) {
+    /**!
     // flash LED if motor is on
     function flashMotor() {
       if(my.motor.isOn == true) {
@@ -82,4 +83,5 @@ RR1.robot({
       console.log("Right Trigger: ", pos);
     });
   }
+  */
 }).start();
