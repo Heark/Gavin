@@ -1,5 +1,5 @@
 --
-[![Build Status](https://travis-ci.org/Heark/Gavin.svg?branch=master)](https://travis-ci.org/Heark/Gavin)
+[![Build Status](https://travis-ci.org/Heark/RR1.svg?branch=master)](https://travis-ci.org/Heark/Gavin)
 ## Raspberry Robot One
 <img src="http://d2kmb61w1swc5t.cloudfront.net/images/Actobotics_Kit-03.jpg" alt="Drawing" width="200" height="200"/>
 
