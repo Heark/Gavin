@@ -1,7 +1,7 @@
-var Gavin = require('cylon');
+var RR1 = require('cylon');
 require('hotdog');
 
-Gavin.robot({
+RR1.robot({
   connections: {
     keyboard: { adaptor: 'keyboard' },
     raspi: { adaptor: 'raspi' },
