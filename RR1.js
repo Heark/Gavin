@@ -82,6 +82,4 @@ RR1.robot({
       console.log("Right Trigger: ", pos);
     });
   }
-});
-  }
 }).start();
