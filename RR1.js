@@ -1,5 +1,5 @@
 var RR1 = require('cylon');
-require('hotdog');
+//require('hotdog');
 
 RR1.robot({
   connections: {
