@@ -1,5 +1,5 @@
 {
-  "name": "gavin",
+  "name": "RR1",
   "version": "1.0.0",
   "description": "A Raspberry Pi robot created in JavaScript ",
   "main": "gavin.js",
@@ -17,11 +17,11 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node gavin.js"
+    "test": "node RR1.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Heark/Gavin.git"
+    "url": "git+https://github.com/Heark/RR1.git"
   },
   "keywords": [
     "robotics"
@@ -29,7 +29,7 @@
   "author": "Heark",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Heark/Gavin/issues"
+    "url": "https://github.com/Heark/RR1/issues"
   },
-  "homepage": "https://github.com/Heark/Gavin#readme"
+  "homepage": "https://github.com/Heark/RR1#readme"
 }
