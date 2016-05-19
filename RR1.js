@@ -81,7 +81,8 @@ RR1.robot({
 
     my.controller.on("rt:move", function(pos) {
       console.log("Right Trigger: ", pos);
-    });
-  }
-  */
+    })
+    */
+  };
+  
 }).start();
