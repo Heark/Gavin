@@ -1,5 +1,5 @@
 var RR1 = require('cylon');
-var OBJ = require('hotdog');
+// var OBJ = require('hotdog');
 
 RR1.robot({
   connections: {
